@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/correct_option_boarder_bg.xml" value="0.1955" />
+        <entry key="app/src/main/res/drawable/default_option_boarder_bg.xml" value="0.18208325195312497" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.206" />
+        <entry key="app/src/main/res/drawable/seleected_option_boarder_bg.xml" value="0.15046813964843747" />
+        <entry key="app/src/main/res/drawable/wrong_option_boarder_bg.xml" value="0.1955" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_quiz_questions.xml" value="0.32442047119140627" />
+        <entry key="app/src/main/res/layout/activity_result.xml" value="0.3436630249023438" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
